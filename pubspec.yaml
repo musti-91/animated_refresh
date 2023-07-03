@@ -1,0 +1,20 @@
+name: animated_refresh
+description: A custom animated refresh indicator.
+version: 0.0.1
+homepage: https://github.com/musti-91/animated_refresh
+
+environment:
+  sdk: '>=3.0.5 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+
+flutter:
